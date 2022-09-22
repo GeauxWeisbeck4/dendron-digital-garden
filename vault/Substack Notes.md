@@ -42,3 +42,10 @@ iv. How Edwin Dorsey build the Bear cave
 Writers don't pay for a piece of info - they pay for acces to a writer: Their unique worldview, expertise, and style.
 1) Who am i Writing for?
 2) Why are they drawn to my writing?
+3) Map out what I will offer readers
+
+## Publication strategy guide
+
+## Resources
+i. Building community around your publication
+ii. Post format options on Substack
