@@ -23,3 +23,5 @@ TODO
 - [ ] SMS, chat
 - [x] Slack Channel
 - [ ] [[Module 1]]
+- [ ] [[Module 2]]
+[[Module 2 - Three Hurdles]]
