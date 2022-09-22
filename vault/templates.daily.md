@@ -2,22 +2,53 @@
 id: mdaljtpcknvfngzl5d1q50j
 title: Daily Journal Template
 desc: ''
-updated: 1663774213682
+updated: 1663834465659
 created: 1663774213682
 ---
-This template was applied using the daily journal schema. Edit the [[templates.daily]] note to change this template.
-To create your own schemas to auto-apply templates when they match a hierarchy, follow the [schema tutorial](https://blog.dendron.so/notes/P1DL2uXHpKUCa7hLiFbFA/) to get started.
+# TODO
+- [ ] Daily 
+- [ ] Things 
+- [ ] I 
+- [ ] Need 
+- [ ] To 
+- [ ] Do
+- [ ] To
+- [ ] Win
+- [ ] The
+- [ ] Day
+- [ ] You
+- [ ] Are
+- [ ] Awesome
 
-<!--
-Based on the journaling method created by Intelligent Change:
-- [Intelligent Change: Our Story](https://www.intelligentchange.com/pages/our-story)
-- [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
--->
+## GeauxModoro TImer Planer
 
+Session | Time | Task 
+1 | 1:00-2:00 | Coding 
+
+# Awesome shit I found today
+- Shit #1 
+- Awesome shit 
+- Cool shit
+  
+# Notes 
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit 
+Fried hamburger bananas on hazy summer roof top smokin reefer chillin baby yeah its time to do that.
+
+# Content Ideas
+
+
+# Running List of Projects
+
+# New Projects
+
+# Progress on Stuff
 ## Morning
 
 <!-- Fill out this section after waking up -->
-
+<!-- Give your balls a big scratch, and stretch wid -->
+## Morning Pages 
+Here is the link to the [[morningpages.daily.md]]
 ### Gratitude
 
 I am grateful for:

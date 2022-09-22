@@ -28,4 +28,5 @@ I have been searching for a job for about 10 months now and I'm getting exhauste
     - [ ] Elasticsearch, 1edtech standards, LMS like canvas blackboard, moodle, D2l brightspace
     $85-120k
 
+- [ ] I28 Technologies - Python and Django developer
 

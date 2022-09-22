@@ -2,7 +2,7 @@
 id: 7FIYe9gq60KcGHIlDnkGP
 title: About
 desc: 'This is to showcase how to publish Dendron documentation to Netlify!'
-updated: 1663774025923
+updated: 1663830848938
 created: 1637610850873
 ---
 
@@ -11,3 +11,15 @@ Welcome to my Digital Garden! My name is Andrew and I create lots of websites, c
 Previously I have used Notion, LogSeq and some other ones - I like them, but I didn't have one that just felt right with any of my coding tools. Well that is no longer the case! Dendron works with VS Code which is perfect for my Digital Garden! I can code and take notes at the same time.
 
 I hope you enjoy my collection of notes here and see how they go on out to other websites, and spill out onto the universe!
+
+## My Favorite Hobbies
+
+## My Teams 
+
+## My Life 
+
+
+## What I'm Reading 
+
+# I've Failed a lot - I credit Failure for my Success
+Fail like a winner. There's a right and wrong way to fail - the wrong way is by not failing very much. Nobody gets it right with out the work.

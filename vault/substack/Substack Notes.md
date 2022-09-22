@@ -2,7 +2,7 @@
 id: 2uiuwo516qxr6hqyg1f2d0c
 title: Substack Notes
 desc: 'All Substack Notes'
-updated: 1663804326928
+updated: 1663836690458
 created: 1663804326928
 ---
 TODO
@@ -26,14 +26,16 @@ Value of writer-reader relationship can be measured alont two major axes:
 2) engagement - how many pay attention
 ### Next Steps:
 i. [ ] Understand your numbers 🔢
-ii. [ ] A guide to your subscriber dashboard 🗺
+ii. [https://on.substack.com/p/subscriber-dashboard-guide ] A guide to your subscriber dashboard 🗺
 iii. [ ] Getting comfortable asking for money emoji: 💸
-iv. [ ] How Edwin Dorsey grew the bear cave
+iv. [ ] How Edwin Dorsey grew the bear cave https://on.substack.com/p/going-paid-the-examined-family
+-https://on.substack.com/p/going-paid-the-rover
+
 
 ## Goal Setting Guide
 
 ## Resources
-i. A guide to your Substack Metrics
+i. [[A guide to your Substack Metrics]]
 ii. Subscriber Dashboard guide
 iii. Getting comfortable asking for money
 iv. How Edwin Dorsey build the Bear cave
@@ -49,3 +51,7 @@ Writers don't pay for a piece of info - they pay for acces to a writer: Their un
 ## Resources
 i. Building community around your publication
 ii. Post format options on Substack
+iii. [[Getting your first 100 sign-ups]](https://on.substack.com/p/getting-your-first-100-signups)
+
+
+
