@@ -30,3 +30,35 @@ I have been searching for a job for about 10 months now and I'm getting exhauste
 
 - [ ] I28 Technologies - Python and Django developer
 
+- [ ] Sourced - Junior backend engineer
+- building engaging and fun community based games
+- 70-85k
+- Diverse culture that promotes creative growth and thinking
+Responsibilities:
+- Analyze data and identify possible imporvements in efficiency and performance
+- Review software code written by other and identify bugs and errors
+- Sort out and resolve glitches and bugs
+- design and develop new applications
+- Write backend code primarily using Go
+- Work corrabatively with back end development team to determine what and how it should be built
+- Code review to identify security issues
+- Test apps to make sure thaey meet design specs
+- Maintain existing software apps
+- Identify security risks and suggest solutions to imporvements
+Quals
+- 1 + year of backend development
+- fundamentals of software engineering
+
+Techs used
+Go , Cloud, Python GWS, Google TeamsMOnday.,communication
+
+Personality Trait
+- Reliable
+- Assertive and direct
+- COllaborative
+- gets hands dirty
+- problem solver and decision maker
+- sense of humore
+- passionate about ggaming and game dev
+- self starter and self motivated
+- Responsibility for own actions

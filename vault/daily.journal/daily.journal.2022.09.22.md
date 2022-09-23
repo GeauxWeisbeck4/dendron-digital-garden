@@ -8,8 +8,8 @@ traitIds:
   - journalNote
   - dailyproject.dev
 ---
-TODO
-- [x] Cat food form 
+# TODO
+- [x] Cat food form
 - [ ] [[MEARN Stack Developer]]
 - [ ] [[GeauxWeisbeck4.dev Website]]
 - [ ] Resume and find job [[Job Search]]
@@ -40,7 +40,7 @@ TODO
   - THE python cheatsheet
   - Substack ezbook
   - Storyblok & Astro Article/Tutorial -> Send to Netlify
- 
+
 
 # Notes
 - ]Git commit guide](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md):
@@ -82,15 +82,15 @@ Resolves: #123
 See also: #456, #789
 
 # Content Ideas
-- [ ] Storyblok & Astro Tutorial + Netlify + TailwindCSS + MongoDB + Redis + Prisma 
-- [ ] Get That Programmer Job and Keep It With Good Commit Messages 
+- [ ] Storyblok & Astro Tutorial + Netlify + TailwindCSS + MongoDB + Redis + Prisma
+- [ ] Get That Programmer Job and Keep It With Good Commit Messages
 - [ ] Andrewweisbeck. - tech design blog com
 
 # New and Old Projects - [[dailyprojects.dev]]
 - [ ] Jamstack.world - Resource an template website
 - [ ] My own documentation genrator
 - [ ] Make my own Astro Style System - A11y Focused W/ Air BNB notes - For [[realest-a-info]] + [[GeauxSection4]]
-- [ ] Moon Buddhas - Add nativeapps 
+- [ ] Moon Buddhas - Add nativeapps
 - [ ] Donation Page
 - [ ] Netlify Tutorial
 
