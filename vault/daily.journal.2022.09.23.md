@@ -15,7 +15,7 @@ traitIds:
 - [ ] [[Vim Tutorial]]
 - [ ] Study [[Python]]
 - [ ] [[JavaScript Notes]]
-- [ ] Learn Go
+- [ ] Learn Go!
 - [ ] Learn Rust
 - [ ] Geaux Brand Strategy - publish to # TODO
 - [ ] Cat food form
@@ -31,13 +31,21 @@ traitIds:
 - [ ] [mkdocs newsletter](https://lyz-code.github.io/mkdocs-newsletter/)
 - [ ] [[Tar Heel Dev Studio]] - Cold emails, Projects on Netlify, others
 
+# Mental Health/Personal Wellness
+- [ ] Quick morning work out
+- [x] Breakfast smoothie
+
 ## GeauxModoro TImer Planer
 
-|  Session   |   Time  |   Task      |
-|------------------------------------|
-|1      | 4:00-5:00  | Prepare for day/Brand Sprint   |
--------------------------------------|
-|2 | 5:00-6:00 | Brand Sprint/Tar Heel Dev Studio plan |
+|  Session                  |   Time   |              Task      |
+|---------------------------------------------------------------|
+|1 Tar Heel Dev Studio      |4:00-5:00 | e for day/Brand Sprint |
+|---------------------------------------------------------------|
+|  Break                    |  5-7am   | took shower relaxed    |
+|---------------------------------------------------------------|
+|2 Geaux Brand Strategy/Section4 | 7:00-8:00 | Started on THDS  |
+|---------------------------------------------------------------|
+
 
 # Awesome shit I found today
 - Shit #1
@@ -57,6 +65,7 @@ Fried hamburger bananas on hazy summer roof top smokin reefer chillin baby yeah 
 # New Projects
 
 # Progress on Stuff
+
 ## Morning
 
 <!-- Fill out this section after waking up -->
