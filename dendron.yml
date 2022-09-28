@@ -6,7 +6,7 @@ commands:
         note:
             selectionMode: extract
             confirmVaultOnCreate: false
-            leaveTrace: false
+            leaveTrace: true
             bubbleUpCreateNew: true
             vaultSelectionModeOnCreate: smart
             fuzzThreshold: 0.2
@@ -18,7 +18,11 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
-    copyNoteLink: {}
+    copyNoteLink:
+        aliasMode: title
+        nonNoteFile:
+            anchorType: block
+    templateHierarchy: template
 workspace:
     vaults:
         -
@@ -52,8 +56,12 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+        taskCompleteStatus:
+            - done
+            - x
     graph:
         zoomSpeed: 1
+        createStub: false
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
@@ -65,6 +73,7 @@ workspace:
     maxNoteLength: 204800
     dendronVersion: 0.87.0
     enableEditorDecorations: true
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -102,3 +111,4 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
+    enableTaskNotes: true
