@@ -62,3 +62,22 @@ Personality Trait
 - passionate about ggaming and game dev
 - self starter and self motivated
 - Responsibility for own actions
+
+# Full Stack Python Developer
+Experience in designing and developing performant and highly available API endpoints, methods and models using modern Python frameworks like Django, Flask (Django is preferred)
+Experience in building reusable data ingestion and data transformation tools/frameworks using Python on the AWS environment
+Expertise in Bash and Ansible
+Experience in designing & developing the user interface using ReactJS
+Experience in frontend technologies like JQuery, Type Script, Java Script, Bootstrap, HTML and CSS (experience with Sass is a plus)
+Experience in designing and managing databases (MySQL experience is a plus)
+Experience in building SQL scripts and optimizing existing SQL’s for faster performance
+Telecom experience is preferred
+Job Types: Full-time, Contract
+Pay: $80,000.00 - $120,000.00 per year
+Experience:
+Python: 5 years (Required)
+JavaScript: 3 years (Required)
+Django: 3 years (Required)
+Bash: 3 years (Required)
+Ansible: 3 years (Required)
+Work Location: Remote
