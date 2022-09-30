@@ -28,8 +28,5 @@ This is the 2nd version of my professional developer website. The first version 
 # Backend
 - [x] [[Supabase]]
   - [ ] Password: Hide ctHV5o6Log2ALsm2
-  - [ ] Anon Public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJpbG12cHlrcnpyY3R1cmdodHl1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjQ0MDYwMzMsImV4cCI6MTk3OTk4MjAzM30.ViJKhhcEV-iovsSGOHaiGrBwG_fX1VpQitWa0jFFXhk
-  - [ ] Service Role: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJpbG12cHlrcnpyY3R1cmdodHl1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2NDQwNjAzMywiZXhwIjoxOTc5OTgyMDMzfQ.eXz3FLeqeYfGlXzsSBl3NC4vHLYwuMqiL9GEUuxS-kA
-  - [ ] Project Config: https://bilmvpykrzrcturghtyu.supabase.co
-  - [ ] JWT Secret: qdFDUgzPYKdpEvrn1CbW+0N2xVd9ls+uiRpiHHFgHXN0KRJ2prc24qlpOQP0nDxu9+ZV7KDUj2ncNXWqRndzQA==
+
   - [ ]

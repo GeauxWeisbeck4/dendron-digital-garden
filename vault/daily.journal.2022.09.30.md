@@ -2,7 +2,7 @@
 id: nk5affh3gyyeozl608ldjw0
 title: '2022-09-30'
 desc: 'Friday Sep 30, 2022'
-updated: 1664552725570
+updated: 1664560269730
 created: 1664552173853
 traitIds:
   - journalNote
@@ -12,7 +12,10 @@ traitIds:
 - [ ] Morning Ritual
   - [ ] Plan Day
 - [ ] Swallow the frog
-- [ ] more...
+- [ ] Geaux Brand Strategy
+- [ ] GeauxWeisbeck4.dev
+- [ ] Tar Heel Dev Studio
+- [ ] Geaux Sprint System
 ## Morning
 
 <!-- Fill out this section after waking up -->

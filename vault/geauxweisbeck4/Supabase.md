@@ -9,10 +9,8 @@ created: 1664406327985
 - [x] Setup Project
 - [ ] create User Management database in sql editor
 - [ ] API Info
-  - [x] Project URL: https://bilmvpykrzrcturghtyu.supabase.co
-  - [ ] Anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJpbG12cHlrcnpyY3R1cmdodHl1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjQ0MDYwMzMsImV4cCI6MTk3OTk4MjAzM30.ViJKhhcEV-iovsSGOHaiGrBwG_fX1VpQitWa0jFFXhk
-  - [ ] Service role:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJpbG12cHlrcnpyY3R1cmdodHl1Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2NDQwNjAzMywiZXhwIjoxOTc5OTgyMDMzfQ.eXz3FLeqeYfGlXzsSBl3NC4vHLYwuMqiL9GEUuxS-kA
-  - [ ] qdFDUgzPYKdpEvrn1CbW+0N2xVd9ls+uiRpiHHFgHXN0KRJ2prc24qlpOQP0nDxu9+ZV7KDUj2ncNXWqRndzQA==
+= [x] Project URL: https://bilmvpykrzrcturghtyu.supabase.co
+
 
 
 # User Management Database in SQL Editor
