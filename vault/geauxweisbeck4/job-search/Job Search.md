@@ -159,3 +159,5 @@ License/Certification:
 
 AWS Certification (Preferred)
 Work Location: Remote
+
+# Junior Python Developer

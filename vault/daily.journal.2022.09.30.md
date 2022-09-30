@@ -1,9 +1,11 @@
 ---
-id: mdaljtpcknvfngzl5d1q50j
-title: Daily Journal Template
-desc: ''
-updated: 1664537986260
-created: 1663774213682
+id: nk5affh3gyyeozl608ldjw0
+title: '2022-09-30'
+desc: 'Friday Sep 30, 2022'
+updated: 1664552725570
+created: 1664552173853
+traitIds:
+  - journalNote
 ---
 # TODO
 - [ ] Morning Pages
